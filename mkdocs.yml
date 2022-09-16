@@ -18,19 +18,16 @@ theme: flatly
 text: Roboto Slab
 highlightjs: true
 hljs_languages:
-        - yaml
-        - rust
+  - yaml
+  - rust
 site_author: Meka Couch
 features:
-    - content.code.annotate
-# Adding CSS Files
+  - content.code.annotate
 
 
 #plugins
 plugins:
-    - mkdocs-video
-
-
+  - mkdocs-video
 
 #Configuration for Code Snippets Ref:(https://squidfunk.github.io/mkdocs-material/reference/code-blocks/)
 markdown_extensions:

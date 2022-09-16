@@ -12,9 +12,13 @@ For Organization Information [wolfberryllc.com](https://www.wolfberryllc.com).
 <br>
 <br>
 <br>
+
 ##Coding Languages Used
 <i class="fa-brands fa-js fa-4x"></i>
 <i class="fa-brands fa-python fa-4x"></i>
+<br>
+<br>
+
 ##Download Apps on Mobile and Desktop
 Please check and confirm you have the proper system requirements for your desktop
 
