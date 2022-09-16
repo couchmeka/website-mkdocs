@@ -1,0 +1,51 @@
+#Site Attributes
+
+site_name: MetaIoT
+site_url: https://wolfberryllc.github.io
+repo_url: https://github.com/wolfberryllc/MetaIoT
+edit_uri: ""
+
+# Site navigation for adding pages
+nav:
+    - Home: index.md
+    - Developers: developers.md
+    - About: about.md
+    - Installation: prerequisites.md
+    - License: license.md
+
+# Theme
+theme: flatly
+text: Roboto Slab
+highlightjs: true
+hljs_languages:
+        - yaml
+        - rust
+site_author: Meka Couch
+features:
+    - content.code.annotate
+# Adding CSS Files
+
+
+#plugins
+plugins:
+    - mkdocs-video
+
+
+
+#Configuration for Code Snippets Ref:(https://squidfunk.github.io/mkdocs-material/reference/code-blocks/)
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - codehilite
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+extra_css: 
+- extra.css
+
+extra_javascript:
+- https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js
