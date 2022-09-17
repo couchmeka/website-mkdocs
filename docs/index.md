@@ -4,9 +4,10 @@
 # MetaIoT 
 
 [comment]: <> (This is the header image)
-![Image title](planterai.jpg){ align=center width="300" height="300"}![Image title]![Image title](planterai3.jpg){ align=center width="200" height="300"}
 
-[comment]: <> (Link to website)
+![Image title](planterai3.jpg){ align=center width="200" height="300"}
+
+
 For Organization Information [wolfberryllc.com](https://www.wolfberryllc.com).
 <br>
 <br>
