@@ -1,3 +1,5 @@
+
+
 <script src="https://kit.fontawesome.com/267ca0a163.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js"></script>
 
@@ -18,6 +20,7 @@ For Organization Information [wolfberryllc.com](https://www.wolfberryllc.com).
 ##Coding Languages Used
 <i class="fa-brands fa-js fa-4x"></i>
 <i class="fa-brands fa-python fa-4x"></i>
+<i class="fa-brands fa-html5 fa-4x" ></i>
 <br>
 <br>
 
@@ -42,16 +45,15 @@ This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and so
 
 [comment]: <> (Paragraph)
 
-If you are just looking for a demo of what this can do and for learning please see For purchasing information please  see ::link:: for the sensor    and ::link::. If you are going to be building your own application and using your own sensors please move forward to the developer documentation.
+<i class="fa-regular fa-lightbulb fa-1x"></i> this will be for important information If you are just looking for a demo of what this can do and for learning please see For purchasing information please  see for the sensor    and If you are going to be building your own application and using your own sensors please move forward to the developer documentation.
 
 <br>
 <br>
 ##Download the apps
-Once you have confirmed you have the correct hardware its time to download the apps!
 [comment]: <> (App Store Images & Google Play)
 <a href="http://google.com.au/" rel="some text">![App Store](appstore.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](googleplay.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](snapcraft.png){ align=center width="250" height="200"}</a>
 
-
+{==<i class="fa-regular fa-lightbulb fa-1x"></i>This is how you will highlight important to know information. This can be footnotes and commments. Copy the text and replace this with placer information.9iij==}
 <br>
 
 [comment]: <> (Snapcraft link)
@@ -81,6 +83,12 @@ import tensorflow as tf
 ```
 
 ## Codeblocks with titles
+
+
+
+
+
+
 ``` py title="bubble_sort.py"
 def bubble_sort(items):
     for i in range(len(items)):
@@ -92,19 +100,50 @@ def bubble_sort(items):
 
 <div class="grid cards" markdown>
 
-##Coding Languages Used
-<i class="fa-brands fa-js fa-4x"></i>
-<i class="fa-brands fa-python fa-4x"></i>
-
 </div>
+
+
+[comment]: <> (This is a comment, it will not be included)
+
+
+
+
+
+
+[comment]: <> (code block)
+````
+document$.subscribe(function() { // (1)
+  var tables = document.querySelectorAll(/* (2) */ "article table")
+  tables.forEach(function(table) {
+    new Tablesort(table)
+  })
+})
+````
+
+
+
+[comment]: <> (code block with line numbers)
+
+~~~ python linenums="1"
+def bubble_sort(items):
+    for i in range(len(items)):
+        for j in range(len(items) - 1 - i):
+            if items[j] > items[j + 1]:
+                items[j], items[j + 1] = items[j + 1], items[j]
+~~~
+
+
+
+
+
+<br>
+
+
+
+[comment]: <> (logo to link font awesome)
 
 <a href="https://github.com/wolfberryllc/MetaIoT"><i class="fa-brands fa-github fa-4x"></i></a>
 </div>
 
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (add copy to code)
-
-<script src="dist/clipboard.min.js"></script>
 
 

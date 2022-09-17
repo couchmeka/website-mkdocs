@@ -15,7 +15,9 @@ nav:
 
 # Theme
 theme: flatly
-text: Roboto Slab
+nav_style: dark
+custom_dir: custom_theme
+font: Roboto Slab
 highlightjs: true
 hljs_languages:
   - yaml
@@ -28,6 +30,7 @@ features:
 #plugins
 plugins:
   - mkdocs-video
+  - macros
 
 #Configuration for Code Snippets Ref:(https://squidfunk.github.io/mkdocs-material/reference/code-blocks/)
 markdown_extensions:
@@ -39,10 +42,20 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - attr_list
-  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+
 
 extra_css: 
 - extra.css
 
 extra_javascript:
 - https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js
+
