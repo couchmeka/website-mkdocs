@@ -38,8 +38,8 @@ Please check and confirm you have the proper system requirements for your deskto
 This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and soil sensor configurations. Please make sure you also have the proper hardware. To purchase hardware please see 
 
 [comment]: <> (hardware purchasing links)
-<a href="http://google.com.au/" rel="purchase hardware">![Raspberry Pi](raspberrypi.jpg){ width="250" height="100"}</a>
-<a href="http://google.com.au/" rel="Sensor Kit">![Arduino](arduino.jpg){ width="150" height="100"}</a>
+<a href="http://google.com.au/" rel="purchase hardware">![Raspberry Pi](raspberrypi.jpg){ width="150" height="50"}</a>
+<a href="http://google.com.au/" rel="Sensor Kit">![Arduino](arduino.jpg){ width="75" height="50"}</a>
 
 <br>
 
