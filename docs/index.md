@@ -5,8 +5,9 @@
 
 [comment]: <> (This is the header image)
 
-![Image title](planterai3.jpg){ align=center width="200" height="300"}
-
+![Image title](planterai.jpg){ align=center width="350" height="400"}
+<br>
+<br>
 
 For Organization Information [wolfberryllc.com](https://www.wolfberryllc.com).
 <br>
