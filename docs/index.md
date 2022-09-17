@@ -51,7 +51,7 @@ This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and so
 <br>
 ##Download the apps
 [comment]: <> (App Store Images & Google Play)
-<a href="http://google.com.au/" rel="some text">![App Store](appstore.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](googleplay.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](snapcraft.png){ align=center width="250" height="200"}</a>
+<a href="http://google.com.au/" rel="some text">![App Store](appstore.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](googleplay.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](snapcraft.png){ align=center width="200" height="150"}</a>
 
 {==<i class="fa-regular fa-lightbulb fa-1x"></i>This is how you will highlight important to know information. This can be footnotes and commments. Copy the text and replace this with placer information.9iij==}
 <br>
