@@ -14,13 +14,7 @@
 
 This is documentation for an open-source project that creates a data route that goes from sensor to storage using the security of blockchain and the visualization provided from AR technologies. For Organization Information see [wolfberryllc.com](https://www.wolfberryllc.com).
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ##System Requirements
 ![Image title](planterai2.jpg){ align=center width="350" height="200"}
 <br>
