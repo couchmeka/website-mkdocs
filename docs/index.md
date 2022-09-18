@@ -12,7 +12,7 @@
 <br>
 <br>
 
-For Organization Information [wolfberryllc.com](https://www.wolfberryllc.com).
+This is documentation for an open-source project that creates a data route that goes from sensor to storage using the security of blockchain and the visualization provided from AR technologies. For Organization Information see [wolfberryllc.com](https://www.wolfberryllc.com).
 <br>
 <br>
 <br>
@@ -46,7 +46,7 @@ This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and so
 [comment]: <> (Paragraph)
 
 {==<i class="fa-regular fa-lightbulb fa-1x"></i> this will be for important information If you are just looking for a demo of what this can do and for learning please see For purchasing information please  see for the sensor    and If you are going to be building your own application and using your own sensors please move forward to the developer documentation.==}
-#### Click the correct app store for downloading the apps 
+#### Download
 [comment]: <> (App Store Images & Google Play)
 <a href="http://google.com.au/" rel="some text">![App Store](appstore.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](googleplay.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](snapcraft.png){ align=center width="200" height="150"}</a>
 
