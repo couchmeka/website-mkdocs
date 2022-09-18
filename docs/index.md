@@ -3,7 +3,7 @@
 <script src="https://kit.fontawesome.com/267ca0a163.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js"></script>
 
-# MetaIoT <i class="fa-duotone fa-shield-halved"></i>
+# MetaIoT ![Image title](wolfberry.png){ align=center width="40" height="50"}
 <br>
 <br>
 [comment]: <> (This is the header image)
