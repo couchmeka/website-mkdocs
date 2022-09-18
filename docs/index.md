@@ -82,7 +82,8 @@ Any linux device will work but this project was optimized for Raspberry Pi.
 <i class="fa-brands fa-js fa-4x"></i>
 <i class="fa-brands fa-python fa-4x"></i>
 <i class="fa-brands fa-html5 fa-4x" ></i>
-### Add Code 
+
+
 ``` py
 import tensorflow as tf
 ```
