@@ -16,15 +16,10 @@ For Organization Information [wolfberryllc.com](https://www.wolfberryllc.com).
 <br>
 <br>
 <br>
-
-##Coding Languages Used
-<i class="fa-brands fa-js fa-4x"></i>
-<i class="fa-brands fa-python fa-4x"></i>
-<i class="fa-brands fa-html5 fa-4x" ></i>
-<br>
 <br>
 
-##Download Apps on Mobile and Desktop
+##System Requirements
+![Image title](planterai2.jpg){ align=center width="350" height="200"}
 Please check and confirm you have the proper system requirements for your desktop
 
 [comment]: <> (requirements)
@@ -40,6 +35,7 @@ This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and so
 [comment]: <> (hardware purchasing links)
 <a href="http://google.com.au/" rel="purchase hardware">![Raspberry Pi](raspberrypi.jpg){ width="150" height="50"}</a>
 <a href="http://google.com.au/" rel="Sensor Kit">![Arduino](arduino.jpg){ width="75" height="50"}</a>
+<a href="http://google.com.au/" rel="Sensor Kit">![Seeed Studio](seeed.svg){ width="75" height="50"}</a>
 
 <br>
 
@@ -47,13 +43,7 @@ This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and so
 
 {==<i class="fa-regular fa-lightbulb fa-1x"></i> this will be for important information If you are just looking for a demo of what this can do and for learning please see For purchasing information please  see for the sensor    and If you are going to be building your own application and using your own sensors please move forward to the developer documentation.==}
 #### Click the correct app store for downloading the apps 
-<br>
-<br>
 [comment]: <> (App Store Images & Google Play)
-
-![Image title](planterai2.jpg){ align=center width="350" height="200"}
-<br>
-<br>
 <a href="http://google.com.au/" rel="some text">![App Store](appstore.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](googleplay.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](snapcraft.png){ align=center width="200" height="150"}</a>
 
 {==<i class="fa-regular fa-lightbulb fa-1x"></i>This is how you will highlight important to know information. This can be footnotes and commments. Copy the text and replace this with placer information.9iij==}
@@ -70,7 +60,7 @@ Any linux device will work but this project was optimized for Raspberry Pi.
 * `mkdocs -h` - Print help message and exit.
 
 
-## Mobile App Configurations
+## Mobile App 
 
 
 ## Sensors
@@ -79,7 +69,10 @@ Any linux device will work but this project was optimized for Raspberry Pi.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
-
+##Coding Languages Used
+<i class="fa-brands fa-js fa-4x"></i>
+<i class="fa-brands fa-python fa-4x"></i>
+<i class="fa-brands fa-html5 fa-4x" ></i>
 ### Add Code 
 ``` py
 import tensorflow as tf
