@@ -23,6 +23,7 @@ For Organization Information [wolfberryllc.com](https://www.wolfberryllc.com).
 <br>
 ##System Requirements
 ![Image title](planterai2.jpg){ align=center width="350" height="200"}
+<br>
 Please check and confirm you have the proper system requirements.
 
 [comment]: <> (requirements)
