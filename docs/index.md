@@ -7,7 +7,7 @@
 
 [comment]: <> (This is the header image)
 
-![Image title](planterai.jpg){ align=center width="400" height="400"}
+![Image title](planterai3.jpg){ align=center width="275" height="400"}
 <br>
 <br>
 
@@ -51,7 +51,7 @@ This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and so
 <br>
 [comment]: <> (App Store Images & Google Play)
 
-![Image title](planterai2.jpg){ align=center width="550" height="350"}
+![Image title](planterai2.jpg){ align=center width="600" height="350"}
 <br>
 <br>
 <a href="http://google.com.au/" rel="some text">![App Store](appstore.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](googleplay.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](snapcraft.png){ align=center width="200" height="150"}</a>
