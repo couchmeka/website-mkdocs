@@ -7,7 +7,7 @@
 
 [comment]: <> (This is the header image)
 
-![Image title](planterai.jpg){ align=center width="350" height="400"}
+![Image title](planterai.jpg){ align=center width="400" height="400"}
 <br>
 <br>
 
@@ -46,13 +46,12 @@ This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and so
 [comment]: <> (Paragraph)
 
 {==<i class="fa-regular fa-lightbulb fa-1x"></i> this will be for important information If you are just looking for a demo of what this can do and for learning please see For purchasing information please  see for the sensor    and If you are going to be building your own application and using your own sensors please move forward to the developer documentation.==}
-
+#### Click the correct app store for downloading the apps 
 <br>
 <br>
-##Download the apps
 [comment]: <> (App Store Images & Google Play)
 
-![Image title](planterai2.jpg){ align=center width="250" height="350"}
+![Image title](planterai2.jpg){ align=center width="550" height="350"}
 <br>
 <br>
 <a href="http://google.com.au/" rel="some text">![App Store](appstore.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](googleplay.jpg)</a><a href="http://google.com.au/" rel="some text">![Google Play](snapcraft.png){ align=center width="200" height="150"}</a>
@@ -132,8 +131,8 @@ document$.subscribe(function() { // (1)
 def bubble_sort(items):
     for i in range(len(items)):
         for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
+    if items[j] > items[j + 1]:
+    items[j], items[j + 1] = items[j + 1], items[j]
 ~~~
 
 
@@ -148,6 +147,11 @@ def bubble_sort(items):
 
 <a href="https://github.com/wolfberryllc/MetaIoT"><i class="fa-brands fa-github fa-4x"></i></a>
 </div>
+
+
+
+
+
 
 
 
