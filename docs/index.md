@@ -3,8 +3,9 @@
 <script src="https://kit.fontawesome.com/267ca0a163.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js"></script>
 
-# MetaIoT 
-
+# MetaIoT <i class="fa-duotone fa-shield-halved"></i>
+<br>
+<br>
 [comment]: <> (This is the header image)
 
 ![Image title](planterai3.jpg){ align=center width="275" height="400"}
@@ -17,10 +18,12 @@ For Organization Information [wolfberryllc.com](https://www.wolfberryllc.com).
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 ##System Requirements
 ![Image title](planterai2.jpg){ align=center width="350" height="200"}
-Please check and confirm you have the proper system requirements for your desktop
+Please check and confirm you have the proper system requirements.
 
 [comment]: <> (requirements)
 

@@ -85,11 +85,7 @@
             
             <li class="nav-item" data-level="1"><a href="#metaiot" class="nav-link">MetaIoT</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#coding-languages-used" class="nav-link">Coding Languages Used</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#download-apps-on-mobile-and-desktop" class="nav-link">Download Apps on Mobile and Desktop</a>
+            <li class="nav-item" data-level="2"><a href="#system-requirements" class="nav-link">System Requirements</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -97,11 +93,15 @@
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#mobile-app-configurations" class="nav-link">Mobile App Configurations</a>
+            <li class="nav-item" data-level="2"><a href="#mobile-app" class="nav-link">Mobile App</a>
               <ul class="nav flex-column">
               </ul>
             </li>
             <li class="nav-item" data-level="2"><a href="#sensors" class="nav-link">Sensors</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#coding-languages-used" class="nav-link">Coding Languages Used</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -127,15 +127,11 @@
 <br>
 <br>
 <br>
-<br></p>
-<h2 id="coding-languages-used">Coding Languages Used</h2>
-<p><i class="fa-brands fa-js fa-4x"></i>
-<i class="fa-brands fa-python fa-4x"></i>
-<i class="fa-brands fa-html5 fa-4x" ></i>
 <br>
 <br></p>
-<h2 id="download-apps-on-mobile-and-desktop">Download Apps on Mobile and Desktop</h2>
-<p>Please check and confirm you have the proper system requirements for your desktop</p>
+<h2 id="system-requirements">System Requirements</h2>
+<p><img align="center" alt="Image title" height="200" src="planterai2.jpg" width="350" />
+Please check and confirm you have the proper system requirements for your desktop</p>
 <table>
 <thead>
 <tr>
@@ -168,16 +164,12 @@
 </table>
 <p>This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and soil sensor configurations. Please make sure you also have the proper hardware. To purchase hardware please see </p>
 <p><a href="http://google.com.au/" rel="purchase hardware"><img alt="Raspberry Pi" height="50" src="raspberrypi.jpg" width="150" /></a>
-<a href="http://google.com.au/" rel="Sensor Kit"><img alt="Arduino" height="50" src="arduino.jpg" width="75" /></a></p>
+<a href="http://google.com.au/" rel="Sensor Kit"><img alt="Arduino" height="50" src="arduino.jpg" width="75" /></a>
+<a href="http://google.com.au/" rel="Sensor Kit"><img alt="Seeed Studio" height="50" src="seeed.svg" width="75" /></a></p>
 <p><br></p>
 <p><mark class="critic"><i class="fa-regular fa-lightbulb fa-1x"></i> this will be for important information If you are just looking for a demo of what this can do and for learning please see For purchasing information please  see for the sensor    and If you are going to be building your own application and using your own sensors please move forward to the developer documentation.</mark></p>
 <h4 id="click-the-correct-app-store-for-downloading-the-apps">Click the correct app store for downloading the apps</h4>
-<p><br>
-<br></p>
-<p><img align="center" alt="Image title" height="200" src="planterai2.jpg" width="350" />
-<br>
-<br>
-<a href="http://google.com.au/" rel="some text"><img alt="App Store" src="appstore.jpg" /></a><a href="http://google.com.au/" rel="some text"><img alt="Google Play" src="googleplay.jpg" /></a><a href="http://google.com.au/" rel="some text"><img align="center" alt="Google Play" height="150" src="snapcraft.png" width="200" /></a></p>
+<p><a href="http://google.com.au/" rel="some text"><img alt="App Store" src="appstore.jpg" /></a><a href="http://google.com.au/" rel="some text"><img alt="Google Play" src="googleplay.jpg" /></a><a href="http://google.com.au/" rel="some text"><img align="center" alt="Google Play" height="150" src="snapcraft.png" width="200" /></a></p>
 <p><mark class="critic"><i class="fa-regular fa-lightbulb fa-1x"></i>This is how you will highlight important to know information. This can be footnotes and commments. Copy the text and replace this with placer information.9iij</mark>
 <br></p>
 <h2 id="snapcraft">Snapcraft</h2>
@@ -189,16 +181,20 @@
 <li><code>mkdocs build</code> - Build the documentation site.</li>
 <li><code>mkdocs -h</code> - Print help message and exit.</li>
 </ul>
-<h2 id="mobile-app-configurations">Mobile App Configurations</h2>
+<h2 id="mobile-app">Mobile App</h2>
 <h2 id="sensors">Sensors</h2>
 <div class="highlight"><pre><span></span><code>mkdocs.yml    # The configuration file.
 docs/
     index.md  # The documentation homepage.
     ...       # Other markdown pages, images and other files.
 </code></pre></div>
+<h2 id="coding-languages-used">Coding Languages Used</h2>
+<p><i class="fa-brands fa-js fa-4x"></i>
+<i class="fa-brands fa-python fa-4x"></i>
+<i class="fa-brands fa-html5 fa-4x" ></i></p>
 <h3 id="add-code">Add Code</h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="kn">import</span> <span class="nn">tensorflow</span> <span class="k">as</span> <span class="nn">tf</span>
-</code></pre></div>
+<p><code>py
+import tensorflow as tf</code></p>
 <h2 id="codeblocks-with-titles">Codeblocks with titles</h2>
 <div class="highlight"><span class="filename">bubble_sort.py</span><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="k">def</span> <span class="nf">bubble_sort</span><span class="p">(</span><span class="n">items</span><span class="p">):</span>
 <a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a>    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">items</span><span class="p">)):</span>
@@ -290,5 +286,5 @@ docs/
 
 <!--
 MkDocs version : 1.3.1
-Build Date UTC : 2022-09-18 13:45:47.248840+00:00
+Build Date UTC : 2022-09-18 14:05:11.637581+00:00
 -->
