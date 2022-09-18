@@ -56,14 +56,20 @@ This project also uses Raspberry Pi and Arduino's R3 board for sensor hat and so
 ## Snapcraft 
 Any linux device will work but this project was optimized for Raspberry Pi.
 
-### install snap
+#### install snap
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
+#### Run Updates 
 
-## Mobile App 
+
+
+## Mobile Apps
+
+#### IOS
+#### Android
 
 
 ## Sensors
